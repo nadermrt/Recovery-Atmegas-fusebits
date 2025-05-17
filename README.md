@@ -4,3 +4,5 @@
 آقای gammon تو وبلاگش یک روش برای این کار پیشنهاد کرده https://www.gammon.com.au/forum/?id=12898 ولی این مدار پیچیدگی خاصی داره و بعلاوه نیاز به یک سری لوازم داره که شاید همه نتونن به راحتی تهیه کنند.
 
 ## مرحله یک
+https://eleccelerator.com/fusecalc/fusecalc.php?chip=atmega328p&LOW=E2&HIGH=DA&EXTENDED=05&LOCKBIT=0F
+این سایت برای شبیه سازی اطلاعات فیوز بیت خیلی سایت خوبیه
